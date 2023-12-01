@@ -1,0 +1,13 @@
+h1{
+    background-color: orange;
+    color: white;
+    margin: 200px 200px 30px 200px;
+}
+p{
+    font-size: 60px;
+    background-color: white;
+    margin: 30px 200px 30px 200px;
+}
+body{
+    background-color: whitesmoke;
+}
